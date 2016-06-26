@@ -1,0 +1,11 @@
+F:\SpaceFighter\SpaceFighter\SpaceFighter\bin\Debug\SpaceFighter.exe
+F:\SpaceFighter\SpaceFighter\SpaceFighter\bin\Debug\SpaceFighter.pdb
+F:\SpaceFighter\SpaceFighter\SpaceFighter\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\SpaceFighter\SpaceFighter\SpaceFighter\obj\x86\Debug\SpaceFighter.Form1.resources
+F:\SpaceFighter\SpaceFighter\SpaceFighter\obj\x86\Debug\SpaceFighter.Properties.Resources.resources
+F:\SpaceFighter\SpaceFighter\SpaceFighter\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\SpaceFighter\SpaceFighter\SpaceFighter\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\SpaceFighter\SpaceFighter\SpaceFighter\obj\x86\Debug\SpaceFighter.exe
+F:\SpaceFighter\SpaceFighter\SpaceFighter\obj\x86\Debug\SpaceFighter.pdb
+C:\Users\100583384\Documents\games\SpaceFighter\SpaceFighter\SpaceFighter\obj\x86\Debug\SpaceFighter.exe
+C:\Users\100583384\Documents\games\SpaceFighter\SpaceFighter\SpaceFighter\obj\x86\Debug\SpaceFighter.pdb
